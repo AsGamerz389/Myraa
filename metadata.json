@@ -1,0 +1,6 @@
+{
+  "name": "MYRAA",
+  "description": "Mobile-friendly 3D character companion app with real-time Three.js PMX rendering and physics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
